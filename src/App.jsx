@@ -1,9 +1,12 @@
+import Aspectos from "./components/Aspectos"
+import Hero from "./components/Hero"
 
 function App() {
 
   return (
-    <div className="bg-red-300">
-      Hola Mundo
+    <div>
+      <Hero />
+      <Aspectos />
     </div>
   )
 }
