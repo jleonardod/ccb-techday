@@ -11,13 +11,13 @@ const Header = () => {
       <nav className="fixed w-[80%] md:w-[40%] xl:w-full h-full top-0 xl:static flex-1 flex flex-col xl:flex-row items-center justify-center gap-10 transition-all duration-500 z-50">
         <a href="" className="font-semibold text-gray-100 text-xl">Nuestros Aliados:</a>
         <a href="" className="mt-2">
-          <img src="https://periferiaitgroup.com/wp-content/uploads/2022/09/periferia-it-corp-logo.svg" className="w-24" />
+          <img src="/cbit-logo-blanco.png" className="w-24" />
         </a>
         <a href="" className="mt-2">
-          <img src="https://periferiaitgroup.com/wp-content/uploads/2022/09/contact-business-logo.svg" className="w-24" />
+          <img src="/periferia-logo-blanco.png" className="w-24" />
         </a>
         <a href="" className="mt-2">
-          <img src="https://periferiaitgroup.com/wp-content/uploads/2022/08/seriamente-logo.svg" className="w-24" />
+          <img src="seriamente-id-blanco-simple.png" className="w-24" />
         </a>
       </nav>
     </header>

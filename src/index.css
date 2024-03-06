@@ -22,3 +22,7 @@
 ::-webkit-scrollbar-thumb:hover{
   background: #a5aaad;
 }
+
+.hero{
+  background-image: url('assets/Hero-3.jpeg');
+}

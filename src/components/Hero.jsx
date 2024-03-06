@@ -4,7 +4,7 @@ import { RiCalendarEventFill, RiMapPin2Line } from "react-icons/ri"
 
 const Hero = () => {
   return(
-    <section className="bg-[url('Hero.jpg')] bg-cover">
+    <section className="hero bg-cover">
       <Header />
       <section className="min-h-[50vh] grid xl:grid-cols-8">
         <div className="md:col-span-4 flex items-center justify-center xl:p-16">
