@@ -44,7 +44,7 @@ const Agenda = () => {
         </div>
       </section>
       <section className="w-[90%] text-center">
-        <div className="w-full bg-[#0B2D43] rounded-lg text-white font-semibold text-2xl py-2 italic">Coffe Break</div>
+        <div className="w-full bg-[#0B2D43] rounded-lg text-white font-semibold text-2xl py-2 italic">Coffee Break</div>
       </section>
       <section className="w-[90%] text-center">
         <div className="w-full bg-[#3D3D3D] rounded-t-lg text-white font-semibold text-2xl py-2">Auditorio Principal</div>
