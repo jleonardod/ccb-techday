@@ -1,5 +1,4 @@
 import React from "react"
-import { FaMicrophoneLines } from "react-icons/fa6"
 import { RiHome5Line, RiSlideshow4Line, RiTeamLine } from "react-icons/ri"
 
 const Aspectos = () => {
