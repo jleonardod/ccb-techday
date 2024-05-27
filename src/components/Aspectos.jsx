@@ -7,7 +7,7 @@ const Aspectos = () => {
       <div className="w-[60%] h-52 -mt-28 bg-white shadow-xl py-3 px-4 flex flex-row justify-between rounded-lg">
         <div className="w-72 text-center flex flex-col gap-y-2">
           <RiSlideshow4Line className="text-9xl self-center text-[#DD0035]" />
-          <span className="text-3xl font-bold ">10 Conferencias</span>
+          <span className="text-3xl font-bold ">11 Conferencias</span>
         </div>
         <div className="w-72 text-center flex flex-col gap-y-2">
           <RiHome5Line className="text-9xl self-center text-[#DD0035]" />

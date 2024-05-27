@@ -10,6 +10,9 @@ const Aliados = () => {
         <img src="cbit-logo-negro.png" className="w-40" />
         <img src="periferia-logo-negro.png" className="w-40" />
         <img src="seriamente-id-negro-simple.png" className="w-40" />
+        <img src="aws-negro.png" className=" w-32" />
+        <img src="google-negro.png" className=" w-32" />
+        <img src="Microsoft-negro.png" className=" w-36" />
       </div>
     </div>
   )

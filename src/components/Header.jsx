@@ -19,6 +19,15 @@ const Header = () => {
         <a href="" className="mt-2">
           <img src="seriamente-id-blanco-simple.png" className="w-24" />
         </a>
+        <a href="" className="mt-2">
+          <img src="aws-blanco.png" className=" w-14" />
+        </a>
+        <a href="" className="mt-2">
+          <img src="google-blanco.png" className=" w-24" />
+        </a>
+        <a href="" className="mt-2">
+          <img src="cluster-blanco.png" className=" w-24" />
+        </a>
       </nav>
     </header>
   )
